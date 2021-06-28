@@ -1,6 +1,10 @@
-#  Monarch Population Dynamics, 1994-2018
+#  Changes in climate drive recent monarch butterfly dynamics
 
 ### Erin R. Zylstra, Leslie Ries, Naresh Neupane, Sarah P. Saunders, M. Isabel Ramirez, Eduardo Rendon-Salinas, Karen S. Oberhauser, Matthew T. Farr, and Elise F. Zipkin
+
+### Nature Ecology & Evolution
+
+### Code/Data DOI: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4085906.svg)](https://doi.org/10.5281/zenodo.4085906)
 _______________________________________________________________________________________________________________________________________
 
 ## R code for 2004-2018 models 
